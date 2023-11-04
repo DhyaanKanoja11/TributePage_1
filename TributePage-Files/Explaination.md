@@ -11,7 +11,7 @@ This is a tribute page dedicated to the visionary entrepreneur and co-founder of
 
 ## Introduction
 
-![Steve Jobs](images/steve-jobs.jpg)
+![Steve Jobs](https://github.com/DhyaanKanoja11/TributePage_1/blob/main/TributePage-Files/image-removebg-preview.png)
 
 Steve Jobs was a renowned American business magnate, inventor, and industrial designer. He is best known as one of the co-founders of Apple Inc. and for his significant contributions to the world of technology and innovation.
 
