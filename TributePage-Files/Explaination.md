@@ -8,6 +8,7 @@ This is a tribute page dedicated to the visionary entrepreneur and co-founder of
 - [Career](#career)
 - [Legacy](#legacy)
 - [Conclusion](#conclusion)
+- [License](#license)
 
 ## Introduction
 
@@ -44,3 +45,6 @@ For more information about Steve Jobs, you can visit the [Apple Inc. website](ht
 ---
 
 This tribute page was created with HTML and CSS to honor the life and achievements of Steve Jobs. Feel free to explore the page to learn more about this iconic figure in the tech industry.
+
+## License
+[LICENSE](https://github.com/DhyaanKanoja11/TributePage_1/blob/main/LICENSE)
